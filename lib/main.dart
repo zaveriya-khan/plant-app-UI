@@ -49,7 +49,7 @@ class HomeScreen extends StatelessWidget {
             const SizedBox(height: 10),
             const PlantCardList(),
 
-            // 🌟 Special Pick Section START
+            //Special Pick Section START
             const SizedBox(height: 30),
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 4),
@@ -66,7 +66,7 @@ class HomeScreen extends StatelessWidget {
                 child: Row(
                   children: [
                     Image.asset(
-                      'assets/images/offer_plant.jpg', // Add this image to your assets
+                      'assets/images/offer_plant.jpg',
                       height: 80,
                       width: 80,
                       fit: BoxFit.cover,
@@ -99,8 +99,8 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
             const SizedBox(height: 20),
-            // 🌟 Special Pick Section END
-            // 🌿 Plant Care Tip START
+            //Special Pick Section END
+            //Plant Care Tip START
             const SizedBox(height: 20),
             Container(
               padding: const EdgeInsets.all(16),
@@ -133,7 +133,7 @@ class HomeScreen extends StatelessWidget {
                 ],
               ),
             ),
-            // 🌿 Plant Care Tip END
+            //Plant Care Tip END
             const SizedBox(height: 30),
           ],
         ),
