@@ -1,16 +1,36 @@
-# flutter_application_1
+### Plant Store 🪴
 
-A new Flutter project.
+A simple Flutter application for a plant store 🌿, that features a clean user interface, the user can browse a list of various plants available for purchase.
 
-## Getting Started
+---
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
+To get a local copy up and running, follow these simple steps.
 
-A few resources to get you started if this is your first Flutter project:
+**Prerequisites** :
+Flutter SDK
+An IDE (e.g., VS Code or Android Studio) with the Flutter and Dart plugins installed.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Installation** :
+Clone the repo:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+git clone https://zaveriya-khan/your-username/PlantApp.git
+
+Navigate to the project directory:
+
+cd PlantApp
+
+Install dependencies:
+
+flutter pub get
+
+**Running the App** :
+Make sure you have a device or emulator connected.
+
+Run the application from your terminal:
+
+flutter run
+
+Or run it directly from your IDE.
