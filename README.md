@@ -4,6 +4,13 @@ A simple Flutter application for a plant store 🌿, that features a clean user 
 
 ---
 
+### Preview
+
+<img width="1080" height="2340" alt="Zaveriya_Assignment-1_Img-1" src="https://github.com/user-attachments/assets/913283cf-d6f9-4233-b238-436276de6900" />
+
+
+---
+
 ### Getting Started
 
 This project is a starting point for a Flutter application.
